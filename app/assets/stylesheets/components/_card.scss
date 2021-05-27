@@ -1,0 +1,25 @@
+
+.card {
+  flex: 1 1 0px;
+  margin: 0 20px;
+  box-shadow: 0px 16px 32px rgba(0,0,0,0.2)
+
+  // width: 250px;
+  // height: 200px
+
+}
+
+.card-content {
+  background: #F4F4F4;
+  padding: 10px;
+
+}
+
+.card-link {
+  padding: 10px;
+  height: 40px
+}
+
+.card-figures {
+  display: flex
+}
